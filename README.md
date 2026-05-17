@@ -4,7 +4,7 @@
 
 Dự án này phân tích hành vi của khách hàng trong quy trình mở tài khoản số qua ứng dụng ngân hàng. Mục tiêu chính là xác định nguyên nhân khiến khách hàng rời bỏ quy trình onboarding, đánh giá các điểm nghẽn trong trải nghiệm người dùng và đề xuất cải tiến nhằm tăng tỷ lệ hoàn tất mở tài khoản.
 
-Dữ liệu được phân tích trong dự án bao gồm hành trình mở tài khoản của 9.148 khách hàng trong 3 tháng đầu năm 2024, với các thông tin về trạng thái mở tài khoản, thời gian thao tác, thiết bị sử dụng, hệ điều hành, điểm rời bỏ và lý do bị từ chối. :contentReference[oaicite:0]{index=0}
+Dữ liệu được phân tích trong dự án bao gồm hành trình mở tài khoản của 9.148 khách hàng trong 3 tháng đầu năm 2024, với các thông tin về trạng thái mở tài khoản, thời gian thao tác, thiết bị sử dụng, hệ điều hành, điểm rời bỏ và lý do bị từ chối.
 
 ## 2. Bối cảnh kinh doanh
 
