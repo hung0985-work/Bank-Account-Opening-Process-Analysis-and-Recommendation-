@@ -74,17 +74,9 @@ Bank-Account-Opening-Process-Analysis/
 ├── Report.pdf
 │   └── Báo cáo tổng hợp kết quả phân tích, bao gồm bối cảnh kinh doanh, xử lý dữ liệu, phân tích hiện trạng, nguyên nhân drop-off, mô hình dự đoán và đề xuất cải thiện.
 │
-├── Notebook Clean data.ipynb
-│   └── File làm sạch và xử lý dữ liệu, bao gồm xử lý dữ liệu thiếu, định dạng biến thời gian, xử lý outlier và chuẩn bị dữ liệu cho phân tích.
-│
-├── Notebook Situation Overview.ipynb
-│   └── File phân tích tổng quan tình hình mở tài khoản, bao gồm tỷ lệ thành công, số lượng khách hàng, chân dung khách hàng chính, thiết bị sử dụng và thời điểm mở tài khoản.
-│
-├── Notebook Drop-off Drivers.ipynb
-│   └── File phân tích nguyên nhân khiến khách hàng rời bỏ, bao gồm các điểm nghẽn OCR, OTP, Data Privacy, Contract, kiểm định Chi-square và phân tích sống còn.
-│
-└── Notebook Modeling.ipynb
-    └── File xây dựng mô hình dự đoán khả năng khách hàng drop-off và khả năng fail tại từng bước trong quy trình onboarding.
+├── Notebook 
+│   └── File tổng hợp các Code được sử dụng trong dự án
+
 ```
 
 ## 7. Công cụ sử dụng
